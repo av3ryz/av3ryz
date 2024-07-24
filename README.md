@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+< details>
+<summary>:zap: Github Stats</summary>
+  <img align="left" alt="av3ryz's Github Stats" src="https://github-readme-stats-averys-projects-208b6468.vercel.app/api?username=av3ryz&show_cons=true&hide_border=true" />
+</details>
+
 https://github-readme-stats-averys-projects-208b6468.vercel.app/
 
 <!--
