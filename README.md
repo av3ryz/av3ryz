@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-< details>
-<summary>Github Stats</summary>
-  <img align="left" alt="av3ryz's Github Stats" src="https://github-readme-stats-averys-projects-208b6468.vercel.app/api?username=av3ryz&show_cons=true&hide_border=true" />
-</details>
+<section align="center">
+  <img alt="av3ryz's Github Stats" src="https://github-readme-stats-averys-projects-208b6468.vercel.app/api?username=av3ryz&show_cons=true&hide_border=true" />
+</section>
 
 <!--
 **av3ryz/av3ryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
