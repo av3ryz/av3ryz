@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <section align="center">
-  <img alt="av3ryz's Github Stats" src="https://github-readme-stats-averys-projects-208b6468.vercel.app/api?username=av3ryz&show_cons=true&hide_border=true" />
+  <img alt="av3ryz's Github Stats" src="https://github-readme-stats-rho-five-87.vercel.app/api?username=av3ryz&show_cons=true&hide_border=true" />
 </section>
 
 <!--
