@@ -1,7 +1,7 @@
 ## Hi, I'm Avery 👋
 
 <section align="center">
-  <img alt="av3ryz's Github Stats" src="https://github-readme-stats-rho-five-87.vercel.app/api?username=av3ryz&show=prs_merged&hide_rank=true&_cons=true&hide_border=true" />
+  <img alt="av3ryz's Github Stats" src="https://github-readme-stats-rho-five-87.vercel.app/api?username=av3ryz&show=prs_merged&hide_rank=true&show_icons=true&hide_border=true" />
 </section>
 
 <!--
